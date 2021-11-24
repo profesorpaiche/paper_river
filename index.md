@@ -16,6 +16,4 @@ Basic information of the articles
 
 **2020 - Stengel - Adversarial super-resolution of climatological wind and solar data**
 
-- Year: 2020
-
 - Category: ML, Clim, Meth.
