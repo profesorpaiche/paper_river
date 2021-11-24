@@ -4,7 +4,7 @@
 
 - Stengel, Glaws, Hettinger & N. King.
 
-- 2020.
+- 2020
 
 - PNAS, vol. 117, no. 29
 
@@ -84,9 +84,9 @@
 
     - They employ an adaptive training scheme.
 
-    - > 0.6 -> more iterations to D.
+    - If loss > 0.6 -> more iterations to D.
 
-    - < 0.45 -> more iterations to G.
+    - If loss < 0.45 -> more iterations to G.
 
 - The training is long, but the evaluation is quite fast.
 
