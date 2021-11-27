@@ -8,8 +8,6 @@
 
 - Environment Research Letters. Vol. 10. ??? - ???
 
-- Link: ???, [Notes](notes/2015-Russo-Top_ten_european_heatwaves_since_1950_and_their_occurrence_in_the_coming_decades.md)
-
 - Description: Classification  of the 10 strongest heat-waves in Europe using
   HWMId index and the future projections.
 

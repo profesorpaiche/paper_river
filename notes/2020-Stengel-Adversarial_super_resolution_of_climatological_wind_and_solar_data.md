@@ -10,8 +10,6 @@
 
 - 16805 - 16815
 
-- Link: ???, [Notes](notes/2020-Stengel-Adversarial_super_resolution_of_climatological_wind_and_solar_data.md)
-
 - Description: Use of deep learning (convolutional neural network) to increase
   the spatial resolution of wind and solar radiation outputs from climate
   projections.
