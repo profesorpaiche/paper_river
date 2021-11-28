@@ -38,9 +38,6 @@
 
 - Idea is to perform SR on LR CCSM (a GCM).
 
-- Training and validation data is coarsened (there is a way to do this) HR wind
-  and solar spatial data.
-
 - CCSM wind (lowest level) ~= HR wind (100 m).
 
 - CCSM radiation -> _a lot of things_.
@@ -127,7 +124,7 @@
 
 - Solar radiation results are similar to wind results.
 
-- There is an underestimation in the semivariogram, but still GAN has a food
+- There is an underestimation in the semivariogram, but still GAN has a good
   performance.
 
 ## Discussion
