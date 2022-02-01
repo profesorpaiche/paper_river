@@ -48,3 +48,11 @@ directory you will find some... notes... from the articles.
   infections in a mountain region in Peru.
 - [Notes](notes/2014-Zeña_Giraldo-Clima_indicencia_de_IRAs_en_Ancash.md)
 
+**Analysis of extreme meteorological events in Central Andes of Peru using specialized instruments**
+
+- Flores Rojas, Silva, Suarez Salas, Estevan, Valdivia Prado, Saavedra,
+  Giraldez, Piñas Laura, Scipión, Milla, Kumar & Martinez Castro. 2021.
+- Tags: Precipitation, Cold waves, Pollution, Instruments
+- **Description:** Use of specialize instruments to record some extreme events
+  (precipitation, frost and pollution) and analyze its behavior.
+- [Notes](notes/2021-Flores_Rojas-Analysis_extreme_meteorological_events_in_central_Andes_Peru_using_specialized_instruments.md)
