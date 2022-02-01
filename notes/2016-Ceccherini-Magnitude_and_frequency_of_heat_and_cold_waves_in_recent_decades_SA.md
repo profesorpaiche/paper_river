@@ -7,6 +7,7 @@
 - Natural Hazards Earth System Sciences
 - **Description:** Analysis of heat and cold waves in South America using
   weather stations and analysing how these events change over time.
+- Tags: Heath wave, Cold wave, South America.
 
 # Notes
 
