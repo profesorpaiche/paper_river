@@ -39,3 +39,12 @@ directory you will find some... notes... from the articles.
 - **Description:** Review of several articles related to heat waves to address
   how this are related to health across the globe.
 - [Notes](notes/2018-Campbell-Heatwave_and_health_impact_research_A_global_review.md)
+
+**Clima e incidencia de infecciones respiratorias agudas en Ancash, Peru (2005-2013)**
+
+- Zeña Giraldo & Barceló Pérez. 2014.
+- Tags: Respiratory infections, Peru.
+- **Description:** A short analysis of the incidence of acute respiratory
+  infections in a mountain region in Peru.
+- [Notes](notes/2014-Zeña_Giraldo-Clima_indicencia_de_IRAs_en_Ancash.md)
+
