@@ -1,0 +1,78 @@
+# Information
+
+**The impact of cold weather on respiratory morbidity at Emory Healthcare in
+Atlanta**
+
+- Lane et al.
+- 2022
+- Science of the Total Environment 813
+
+# Notes
+
+- "Research on temperature and respiratory hospitalizations is lacking in the
+  southeastern US where cold weather is relatively rare". _I like that phrase._
+
+## Context
+
+Research over the past decade that has elucidated linkages between weather and
+influenza has emphasized mortality in mid-latitude cities (...) other studies
+have examined these linkages in tropical and sub-tropical locations, where cold,
+dry air is virtually nonexistent. _Could be a nice source of articles._
+
+Pneumonia and influenza are often combined in analyses because their symptomology
+and treatment are similar, influenza diagnostic testing is not always done, and
+mortality from influenza is coded as pneumonia.
+
+The Charlson Comorbidity Index (CCI) is used to predict a patient's risk of death
+within one year of hospitalization for patients with specific comorbid
+conditions.
+
+## Methodology
+
+A case-crossover (time-stratified) analysis was conducted to determine whether
+emergency department visits and inpatient admissions were elevated during, and
+immediately following, cold waves as compared to control periods when no cold
+waves occurred. Cold days were defined as those days in which temperature was at
+least one standard deviation below the 30-year mean for that day. Cold waves were
+defined as a minimum of three cold days, and a cold wave was terminated by two
+consecutive days that did no exceed the cold threshold.
+
+The time-stratified case-crossover approach alleviates the need to control for
+time-varying factors, such as trends and seasonality. Thus, each cold wave is
+associated with a control period within the same 28-day range, and that control
+period cannot also include a different cold wave. Odds ratios were calculated
+using conditional logistic regression. Because there is often a substantial time
+lag in the cold season between a putative impactful weather event and any
+subsequent morbidity, these analyses were extended out through a lag of 21 days.
+They also conducted this analysis for different groups organized by sex, race,
+age, and co-morbidity by re-running the model on each subset across the 21-day
+lag. After obtaining the odds ratios for each subgroup, they compared them using
+a test of interaction at each lag to determine whether there was a significant
+difference between subgroups. The purpose of the analysis is to assess increment
+of odd ratios for emergency department visit and inpatient admission.
+
+They developed Generalized Additive Models to estimate the relative risk of
+emergency department visits and inpatient admissions related to weather. To
+determine the likelihood of elevated or reduced morbidity at specific lags,
+a Distributed Lag Non-linear Model was employed. The purpose was to examine the
+relationship between minimum temperature and hospital data.
+
+## Results and discussion
+
+Generally, at the beginning of cold waves, ED visits and IP admissions decrease.
+However, around one week after a cold wave, visits and admissions increase. This
+could be an effect of individuals deciding no to come to the hospital during the
+coldest days. The results also align with the transmission time-line for
+respiratory viruses.
+
+The relative risk for ED visits increases on days with higher minimum
+temperatures, with a difference of 30% between 21°C and -10°C. For IP, the higher
+risk is found at lower temperatures. _Quite weird results, I don't agree
+completely with the methodology they used._
+
+This study point to the possibility that rapid decreases in temperature may be
+more impactful than low temperature alone.
+
+There are also important factors besides age, sex and ethnicity that influence
+ED and IP which were not considered. For example, illness, vaccination status,
+school or work schedules, and indoor environment.
