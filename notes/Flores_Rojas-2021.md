@@ -2,13 +2,17 @@
 
 **Analysis of extreme meteorological events in Central Andes of Peru using specialized instruments**
 
-- Flores Rojas, Silva, Suarez Salas, Estevan, Valdivia Prado, Saavedra,
-  Giraldez, Piñas Laura, Scipión, Milla, Kumar & Martinez Castro
-- 2021
-- Atmosphere 2021, 12, 308
-- Tags: Precipitation, Cold waves, Pollution, Instruments
-- **Description:** Use of specialize instruments to record some extreme events
-  (precipitation, frost and pollution) and analyze its behavior.
+- Authors: Flores Rojas, Silva, Suarez Salas, Estevan, Valdivia Prado,
+  Saavedra, Giraldez, Piñas Laura, Scipión, Milla, Kumar & Martinez
+  Castro
+- Year: 2021
+- Journal: Atmosphere 2021, 12, 308
+- DOI: 
+- Tags:
+    - [Inst] Instruments.
+    - [ColdR] Radiation cooling.
+    - [ColdS] Cold surge.
+    - [Andes] Andes Mountains.
 
 # Notes
 
@@ -30,3 +34,18 @@
   reinforces the cooling by radiative effect.
 
 - Aerosols comes mainly from biomass burning.
+
+# Bibtex
+
+@article{Flores_Rojas_2021,
+    author = {Flores-Rojas, José Luis and Silva, Yamina and Suárez-Salas, Luis and Estevan, René and Valdivia-Prado, Jairo and Saavedra, Miguel and Giraldez, Lucy and Piñas-Laura, Manuel and Scipión, Danny and Milla, Marco and Kumar, Sheilendra and Martinez-Castro, Daniel},
+    title = {Analysis of Extreme Meteorological Events in the Central Andes of Peru Using a Set of Specialized Instruments},
+    journal = {Atmosphere},
+    volume = {12},
+    year = {2021},
+    number = {3},
+    article-number = {408},
+    url = {https://www.mdpi.com/2073-4433/12/3/408},
+    issn = {2073-4433},
+    doi = {10.3390/atmos12030408}
+}

@@ -3,9 +3,12 @@
 **Seasonal variability in precipitation in central and southern Chile:
 Modulation by the South Pacific High**
 
-- Barrett & Hameed
-- 2017
-- Journal of Climate Vol. 30
+- Authors: Barrett & Hameed
+- Year: 2017
+- Journal: Journal of Climate Vol. 30
+- DOI: https://doi.org/10.1175/JCLI-D-16-0019.1
+- Tags:
+    - [APSO] Souht Pacific High.
 
 # Notes
 
@@ -53,3 +56,19 @@ westward-displaced SPH would allow for a greater precipitation from these low
 pressure systems. Additionally, SPH is further north in winter, which neglects
 the effect of latitude. This, of course, changes in the other seasons with more
 influence of latitude.
+
+# Bibtex
+
+@article{Barrett_2017,
+    author = "Bradford S. Barrett and Sultan Hameed",
+    title = "Seasonal Variability in Precipitation in Central and Southern Chile: Modulation by the South Pacific High",
+    journal = "Journal of Climate",
+    year = "2017",
+    publisher = "American Meteorological Society",
+    address = "Boston MA, USA",
+    volume = "30",
+    number = "1",
+    doi = "10.1175/JCLI-D-16-0019.1",
+    pages= "55 - 69",
+    url = "https://journals.ametsoc.org/view/journals/clim/30/1/jcli-d-16-0019.1.xml"
+}

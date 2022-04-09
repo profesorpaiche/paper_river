@@ -2,14 +2,13 @@
 
 **Top ten European heat-waves since 1950 and their occurrence in the coming decades**
 
-- Russo, Sillmann & M Fischer
-
-- 2015
-
-- Environment Research Letters. Vol. 10. ??? - ???
-
-- Description: Classification  of the 10 strongest heat-waves in Europe using
-  HWMId index and the future projections.
+- Authors: Russo, Sillmann & M Fischer
+- Year: 2015.
+- Journal: Environment Research Letters. Vol. 10. ??? - ???
+- DOI: https://doi.org/10.1088/1748-9326/10/12/124003
+- Tags:
+    - [Heat] Heat extremes.
+    - [EU] EU.
 
 # Notes
 
@@ -91,3 +90,19 @@
 
 - Heat-waves that are unusual will become more common and could occur in any
   country of Europe.
+
+# Bibtex
+
+@article{Russo_2015,
+    doi = {10.1088/1748-9326/10/12/124003},
+    url = {https://doi.org/10.1088/1748-9326/10/12/124003},
+    year = 2015,
+    month = {nov},
+    publisher = {{IOP} Publishing},
+    volume = {10},
+    number = {12},
+    pages = {124003},
+    author = {Simone Russo and Jana Sillmann and Erich M Fischer},
+    title = {Top ten European heatwaves since 1950 and their occurrence in the coming decades},
+    journal = {Environmental Research Letters},
+}

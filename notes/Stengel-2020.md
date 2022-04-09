@@ -2,17 +2,13 @@
 
 **Adversarial super-resolution of climatological wind and solar data**
 
-- Stengel, Glaws, Hettinger & N. King.
-
-- 2020
-
-- PNAS, vol. 117, no. 29
-
-- 16805 - 16815
-
-- Description: Use of deep learning (convolutional neural network) to increase
-  the spatial resolution of wind and solar radiation outputs from climate
-  projections.
+- Authors: Stengel, Glaws, Hettinger & King.
+- Year: 2020.
+- Journal: PNAS, vol. 117, no. 29, pag 16805 - 16815
+- DOI: https://doi.org/10.1073/pnas.1918964117
+- Tags:
+    - [ML] Machine Learning.
+    - [ResUp] Improving resolution.
 
 # Notes
 
@@ -136,3 +132,18 @@
 - They don't want to replicate HR with SR, rather create a plausible HR.
 
 - GAN provide a way to physically consistent deep learning. 
+
+# Bibtex
+
+@article{Stengel_2020,
+    author = {Karen Stengel  and Andrew Glaws  and Dylan Hettinger  and Ryan N. King },
+    title = {Adversarial super-resolution of climatological wind and solar data},
+    journal = {Proceedings of the National Academy of Sciences},
+    volume = {117},
+    number = {29},
+    pages = {16805-16815},
+    year = {2020},
+    doi = {10.1073/pnas.1918964117},
+    URL = {https://www.pnas.org/doi/abs/10.1073/pnas.1918964117},
+    eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.1918964117},
+}

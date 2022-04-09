@@ -2,12 +2,13 @@
 
 **Clima e incidencia de infecciones respiratorias agudas en Ancash, Peru (2005-2013)**
 
-- Zeña Giraldo & Barceló Pérez
-- 2014
-- Revista Cubana de Higiene y Epidemiologia, 52 (3) 301-313
-- Tags: Respiratory infections, Peru.
-- **Description:** A short analysis of the incidence of acute respiratory
-  infections in a mountain region in Peru.
+- Authors: Zeña Giraldo & Barceló Pérez.
+- Year: 2014.
+- Journal: Revista Cubana de Higiene y Epidemiologia, 52 (3) 301-313
+- Tags:
+    - [IRAS] Infectious diseases.
+    - [TempRel] Temperature-related.
+    - [Pe] Peru.
 
 # Notes
 
@@ -21,3 +22,7 @@
   and in counter-phase. Maximum temperature is also coherent.
 
 - _Analysis is not so convincing._
+
+# Bibtex
+
+**Not available**

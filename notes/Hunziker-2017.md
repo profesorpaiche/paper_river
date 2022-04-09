@@ -10,7 +10,7 @@ station observations**
 - Tags:
     - [Pe] Peru.
     - [WS] Weather stations.
-    - [DQC] Data quality control.
+    - [DQ] Data quality.
 
 # Notes
 

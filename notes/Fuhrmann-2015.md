@@ -3,9 +3,14 @@
 **Impact of extreme heat events on emergency department visits in North
 California (2007 - 2011)**
 
-- Fuhrmann et al.
-- 2015
-- Journal of Community Health
+- Authors: Fuhrmann, Sugg, Konrad & Waller.
+- Year: 2015
+- Journal: Journal of Community Health
+- DOI: https://doi.org/10.1007/s10900-015-0080-7
+- Tags:
+    - [HPx] Health effects.
+    - [Heat] Heat extremes.
+    - [StT] Student's t test.
 
 # Notes
 

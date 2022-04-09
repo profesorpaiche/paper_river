@@ -2,12 +2,13 @@
 
 **Heatwave and health impact research: A global review**
 
-- Campbell, Remenyi, White & Johnston
-- 2018
-- Health and Place 53, 210-218
-- Tags: Heat waves, Health.
-- **Description:** Review of several articles related to heat waves to address
-  how this are related to health across the globe.
+- Authors: Campbell, Remenyi, White & Johnston
+- Year: 2018
+- Journal: Health and Place 53, 210-218
+- DOI: https://doi.org/10.1016/j.healthplace.2018.08.017
+- Tags:
+    - [Heat] Heat extremes.
+    - [HPx] Health effects.
 
 # Notes
 
@@ -39,3 +40,18 @@
 
 - Cities with low summer temperatures are more sensitive to heat waves. This is
   a consequence of aclimatation of people.
+
+# Bibtex
+
+@article{Campbell_2018,
+    title = {Heatwave and health impact research: A global review},
+    journal = {Health & Place},
+    volume = {53},
+    pages = {210-218},
+    year = {2018},
+    issn = {1353-8292},
+    doi = {https://doi.org/10.1016/j.healthplace.2018.08.017},
+    url = {https://www.sciencedirect.com/science/article/pii/S1353829218301205},
+    author = {Sharon Campbell and Tomas A. Remenyi and Christopher J. White and Fay H. Johnston},
+    keywords = {Heatwave, Extreme heat, Mortality, Morbidity, Population health},
+}

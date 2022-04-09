@@ -3,9 +3,15 @@
 **Impact of heat on mortality and morbidity in low and middle income countries:
 A review of the epidemiological evidence and considerations for future research**
 
-- Green et al.
-- 2019
-- Environmental Research 171, 80-91
+- Authors: Green, Bailey, Schwarz, Vanos, Ebi & Benmarhnia.
+- Year: 2019.
+- Journal: Environmental Research 171, 80-91.
+- DOI: https://doi.org/10.1016/j.envres.2019.01.010
+- Tags:
+    - [Mort] Mortality.
+    - [Morb] Morbidity.
+    - [3W] Third world countries.
+    - [Heat] Heat extremes.
 
 # Notes
 
@@ -103,3 +109,18 @@ studies.
 
 Because nearly all heatwave-related deaths are preventable, heatwave early and
 response warning systems are being implemented worldwide.
+
+# Bibtex
+
+@article{Green_2019,
+    title = {Impact of heat on mortality and morbidity in low and middle income countries: A review of the epidemiological evidence and considerations for future research},
+    journal = {Environmental Research},
+    volume = {171},
+    pages = {80-91},
+    year = {2019},
+    issn = {0013-9351},
+    doi = {https://doi.org/10.1016/j.envres.2019.01.010},
+    url = {https://www.sciencedirect.com/science/article/pii/S0013935119300106},
+    author = {Hunter Green and Jennifer Bailey and Lara Schwarz and Jennifer Vanos and Kristie Ebi and Tarik Benmarhnia},
+    keywords = {Heat, Heat waves, Vulnerability, LMICs, Population health, Temperature, Temperature-related mortality},
+}

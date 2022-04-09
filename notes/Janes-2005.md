@@ -2,9 +2,12 @@
 
 **Case-crossover analyses of air pollution exposure data**
 
-- Janes et al.
-- 2005
-- Epidemiology. Vol. 16, Num. 6
+- Authors: Janes, Sheppard & Lumley.
+- Year: 2005.
+- Journal: Epidemiology. Vol. 16, Num. 6
+- DOI: ?
+- Tags:
+    - [CxO] Case-crossover.
 
 # Notes
 

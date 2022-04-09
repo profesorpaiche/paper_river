@@ -2,12 +2,14 @@
 
 **Magnitude and frequency of heat and cold waves in recent decades: the case of South America**
 
-- Ceccherini, Russo, Amestoy, Romero & Carmona Moreno
-- 2016
-- Natural Hazards Earth System Sciences
-- **Description:** Analysis of heat and cold waves in South America using
-  weather stations and analysing how these events change over time.
-- Tags: Heath wave, Cold wave, South America.
+- Authors: Ceccherini, Russo, Amestoy, Romero & Carmona Moreno
+- Year: 2016
+- Journal: Natural Hazards Earth System Sciences
+- DOI: https://doi.org/10.5194/nhess-16-821-2016
+- Tags:
+    - [Heat] Heat extremes.
+    - [Cold] Cold extremes.
+    - [SA] South America.
 
 # Notes
 
@@ -28,3 +30,17 @@
 
 - From trend analysis, Tmax is increasing at a rate of 1°C/decade, whereas Tmin
   only increases in the tropics and decreases in extratropics.
+
+# Bibtex
+
+@article{Ceccherini_2016,
+    author = {Ceccherini, G. and Russo, S. and Ameztoy, I. and Romero, C. P. and Carmona-Moreno, C.},
+    title = {Magnitude and frequency of heat and cold waves in recent decades: the case of South America},
+    journal = {Natural Hazards and Earth System Sciences},
+    volume = {16},
+    year = {2016},
+    number = {3},
+    pages = {821--831},
+    url = {https://nhess.copernicus.org/articles/16/821/2016/},
+    doi = {10.5194/nhess-16-821-2016}
+}
