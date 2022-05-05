@@ -9,7 +9,7 @@ and look for it later.
 
 ## Extreme events
 
-- [Ext] Extremes itself.
+- [Ext] Extremes.
 - [Heat] Heat extremes.
 - [Humi] Humid events.
 - [Cold] Cold extremes.
@@ -28,11 +28,12 @@ and look for it later.
 
 - [IRAS] Infectious diseases.
 
-## Observations
+## Observations and data products
 
 - [WS] Weather stations.
 - [DQ] Data quality.
 - [Inst] Instruments.
+- [Grid] Gridded data.
 
 ## Atmospheric physics and dynamics
 
