@@ -43,11 +43,12 @@ and look for it later.
 
 ## Regions
 
-- [EU] EU.
 - [3W] Third world countries.
+- [EU] EU.
 - [USA] USA.
 - [SA] South America.
 - [Pe] Peru.
+- [Br] Brazil.
 - [Andes] Andes Mountains.
 
 ## Methodologies
